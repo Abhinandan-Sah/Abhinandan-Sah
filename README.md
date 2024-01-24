@@ -1,3 +1,5 @@
+![github gif](https://github.com/Abhinandan-Sah/Abhinandan-Sah/assets/118913466/e04acd07-ab6c-4aa3-bcaa-244701fcd99b)
+
 <h1 align="center">Hi 👋, I'm Abhinandan</h1>
 <h3 align="center">A FULL STACK WEB DEVELOPER.</h3>
 
