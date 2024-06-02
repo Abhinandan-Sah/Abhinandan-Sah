@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **bulding project**
 
-- 🌱 I’m currently Learning **JavaScript, ReactJS, NodeJs, MongoDB etc.**
+- 🌱 I’m currently learning **JavaScript, ReactJS, NodeJs, MongoDB etc.**
 
-- 👯 I’m looking to Collaborate on **my projects which I am working on.**
+- 👯 I’m looking to collaborate on **my projects which I am working on.**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, C, C++, DBMS, OS, CN etc.**
 
