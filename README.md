@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **bulding project**
 
-- 🌱 I’m currently learning **JavaScript, ReactJS, NodeJs, MongoDB etc.**
+- 🌱 I’m currently learning **TypeScript, NextJS, UI Labraries etc.**
 
 - 👯 I’m looking to collaborate on **my projects which I am working on.**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, C, C++, DBMS, OS, CN etc.**
+- 💬 Ask me about **JavaScript, ReactJS, NodeJs, C, C++, DBMS, OS, CN etc.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/abhinandan-sah/**
 
