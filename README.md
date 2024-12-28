@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **TypeScript, NextJS, UI Labraries etc.**
 
-- 👯 I’m looking to collaborate on **my projects which I am working on.**
+- 👯 I’m looking to collaborate on **my project which I am working on.**
 
 - 💬 Ask me about **JavaScript, ReactJS, NodeJs, C, C++, DBMS, OS, CN etc.**
 
