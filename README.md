@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **my project which I am working on.**
 
-- 💬 Ask me about **JavaScript, ReactJS, NodeJs, Typescript, C, C++, DBMS, OS, CN etc.**
+- 💬 Ask me about **JavaScript, ReactJS, NodeJs, C, C++, DBMS, OS, CN etc.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/abhinandan-sah/**
 
