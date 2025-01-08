@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinandan-sah&label=Profile%20views&color=0e75b6&style=flat" alt="abhinandan-sah" /> </p>
 
-- 🔭 I’m currently working on **building freelance projects**
+- 🔭 I’m currently working on **building freelance project**
 
-- 🌱 I’m currently learning **TypeScript, NextJS, UI Labraries etc.**
+- 🌱 I’m currently learning **TypeScript, NextJS, UI Libraries etc.**
 
 - 👯 I’m looking to collaborate on **My project which I am working on.**
 
