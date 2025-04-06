@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **TypeScript, NextJS, UI Libraries etc.**
 
-- 👯 I’m looking to collaborate on **My project which I am working on.**
+- 👯 I’m looking to collaborate on **My project which I am working on GSoC 2025.**
 
 - 💬 Ask me about **JavaScript, ReactJS, NodeJs, C, C++, DBMS, OS, CN etc.**
 
