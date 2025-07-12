@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **My project which I am working on GSoC 2025.**
 
-- 💬 Ask me about **JavaScript, ReactJS, NodeJs, C, C++, DBMS, OS, CN etc.**
+- 💬 Ask me about **JavaScript, ReactJS, NodeJs, Blockchain, C++, DBMS etc.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/abhinandan-sah/**
 
